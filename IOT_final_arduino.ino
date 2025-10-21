@@ -5,8 +5,8 @@
 // -------------------------------
 // ‼️‼️ แก้ไข 3 บรรทัดนี้ ‼️‼️
 // -------------------------------
-const char* ssid = "SPINE";       // <<! 1. ใส่ชื่อ WiFi Hotspot
-const char* password = "@Bear456";   // <<! 2. ใส่รหัสผ่าน Hotspot
+const char* ssid = "";       // <<! 1. ใส่ชื่อ WiFi Hotspot
+const char* password = "";   // <<! 2. ใส่รหัสผ่าน Hotspot
 const char* topic = "66070084/final_test";    // <<! 3. ตั้งชื่อ Topic (ต้องตรงกับ Pi)
 
 // -------------------------------
